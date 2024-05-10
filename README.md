@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swati Singh</h1>
 <h3 align="center">A passionate for Web Developer</h3>
-<img alt="coding" width=400 align="right" src="https://i.gifer.com/JXA0.gif">
+<img alt="coding" width=400 align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxlOXdndzVhdnk0azczdGhhaGp0bXJld29lNHU1bTdjZ2JrcG5hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 - 🔭 I’m currently working on **Mental Health Prediction**
 
 - 🌱 I’m currently learning **Django,Javascript**
