@@ -2,15 +2,15 @@
 <h3 align="center">A passionate for Web Developer</h3>
 <img alt="coding" width=300 align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxlOXdndzVhdnk0azczdGhhaGp0bXJld29lNHU1bTdjZ2JrcG5hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 
-- 🔭 I’m currently working on **Mental Health Analysis**
+- 🔭 I’m currently working on **AUTOSAR-based automotive project**
 
-- 🌱 I’m currently learning **Django,Javascript**
+- 🌱 I’m currently learning **Multithreading**
 
 - 👯 I’m looking to collaborate on **File Stroage System using Hybrid Cryptography**
 
-- 💬 Ask me about **Python,Web Development**
+- 💬 Ask me about **C,C++,Lunix**
 
-- 📫 How to reach me **erswatisingh2802@gmail.com**
+- 📫 How to reach me **er.swatisingh3804@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
