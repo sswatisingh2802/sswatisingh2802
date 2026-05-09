@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **AUTOSAR-based automotive project**
 
-- 🌱 I’m currently learning **Multithreading**
+- 🌱 I’m currently learning **STL Deep Concepts,Operating System Internals**
 
-- 👯 I’m looking to collaborate on **File Stroage System using Hybrid Cryptography**
+- 👯 I’m looking to collaborate on **Design & Development of HCI Layer of Bluetooth Stack**
 
-- 💬 Ask me about **C,C++,Lunix**
+- 💬 Ask me about **C,C++,Lunix,Multithreading,IPC,Socket Programming**
 
 - 📫 How to reach me **er.swatisingh3804@gmail.com**
 
